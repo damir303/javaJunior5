@@ -3,7 +3,7 @@ package lesson21;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class Tovar implements Comparable<Tovar> {
+public class Tovar implements Comparable<Tovar> {
     private String name;
     private String opis;
     private int price;
